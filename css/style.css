@@ -124,7 +124,7 @@ h1,h2,h3,h4,h5,h6,.h1,.h2,.h3,.h4,.h5,.h6 {
 	display: none;
 	z-index: 300;
 	cursor: crosshair;
-	cursor: url(../img/pointer.png), auto;
+	cursor: url(../img/pointer.webp), auto;
 }
 
 #runner {
@@ -157,7 +157,7 @@ h1,h2,h3,h4,h5,h6,.h1,.h2,.h3,.h4,.h5,.h6 {
 }
 
 #profile .portrate {
-	background-image: url(../img/personal/personal-image.jpg);
+	background-image: url(../img/personal/personal-image.webp);
 	width: 125px;
 	margin: 0 auto;
 	height: 125px;
@@ -1117,11 +1117,11 @@ ul.grid li a,ul.grid li img {
 /* contanct
  **************************************************/
 .contact-office {
-	background: #fff url('../img/contact-bg-1.png') no-repeat;
+	background: #fff url('../img/contact-bg-1.webp') no-repeat;
 }
 
 .contact-lab {
-	background: #fff url('../img/contact-bg-2.png') no-repeat;
+	background: #fff url('../img/contact-bg-2.webp') no-repeat;
 	color: #fff;
 }
 
